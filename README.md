@@ -42,3 +42,5 @@ Here are 20 sites where you can find cybersecurity news, along with links to the
 19. Cybersecurity 360 (https://www.cybersecurity360.com/)
 
 20. Krebs on Security (https://krebsonsecurity.com/)
+
+21. Infostealers by Hudson Rock (https://www.infostealers.com/) 
